@@ -1,0 +1,13 @@
+,,,,,,
+,M1,M2,M3,M4,M5,M6
+Errors,116,70,64,49,26,0
+Contrast errors,14,50,1,41,9,0
+Alerts,374,104,117,114,199,2
+Features,108,160,46,73,93,13
+Structural elements,81,270,76,38,100,45
+Aria,56,1248,257,249,73,21
+,,,,,,
+Irregularities,504,224,182,204,234,2
+Guidelines,245,1678,379,360,266,79
+Irregularities ratio to quidelines,"2,057","0,133","0,480","0,567","0,880","0,025"
+Contribution of irregularities in all elements,"67,29%","11,78%","32,44%","36,17%","46,80%","2,47%"
